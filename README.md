@@ -3,8 +3,36 @@
 > **Design patterns for building intelligent agents — from reactive to BDI to hybrid.**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
+[![Level](https://img.shields.io/badge/Level-Intermediate-C96E12)](#)
+[![Track](https://img.shields.io/badge/Track-Agent%20Systems-0A7EA4)](#)
 
 ## Architectures Covered
+
+This repository is the design-pattern layer of the agent track.
+
+Use it after [multi-agent-system-basics](https://github.com/dhirajkrsingh/multi-agent-system-basics) if you want to understand how different agent decision models are structured.
+
+## What You Will Learn
+
+By the end of this repository, you should be able to:
+
+- distinguish reactive, BDI, layered, and utility-based agent styles
+- choose an architecture based on the problem rather than on hype
+- understand where fast response, planning, and trade-off reasoning fit into agent design
+
+## Prerequisites
+
+Recommended before starting:
+
+- [multi-agent-system-basics](https://github.com/dhirajkrsingh/multi-agent-system-basics)
+- basic Python familiarity
+
+## Recommended Next Repositories
+
+Continue with:
+
+- [autonomous-agent-design](https://github.com/dhirajkrsingh/autonomous-agent-design) for agent loops, self-correction, and goal-directed behavior
+- [agent-planning-reasoning](https://github.com/dhirajkrsingh/agent-planning-reasoning) for planning and deliberate reasoning structures
 
 | Pattern | Complexity | When to Use |
 |---------|-----------|-------------|
