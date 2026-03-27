@@ -3,7 +3,6 @@
 > **Design patterns for building intelligent agents — from reactive to BDI to hybrid.**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Architectures Covered
 
@@ -41,4 +40,12 @@
 
 ---
 
-**Author:** [Dhiraj Kumar Singh](https://github.com/dhirajkrsingh) — AI Trainer
+## Author
+
+Dhiraj Singh
+
+## Usage Notice
+
+This repository is shared publicly for learning and reference.
+It is made available for everyone through [VAIU Research Lab](https://vaiu.ai/Research_Lab).
+For reuse, redistribution, adaptation, or collaboration, contact Dhiraj Singh / [VAIU Research Lab](https://vaiu.ai/Research_Lab).
